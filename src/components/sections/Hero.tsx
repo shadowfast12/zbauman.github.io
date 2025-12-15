@@ -2,7 +2,7 @@ export default function Hero(){
     return (
         <section id="hero" className="py-24">
             <h1 className="text-4xl font-bold">
-                Zachary Bauman
+                Zachary Bauasman
             </h1>
             <p className="mt-4 text-lg text-gray-600">
                 Computer Engineering · Embedded Systems · Firmware
